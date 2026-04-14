@@ -14,7 +14,7 @@ A simple e-commerce website built using HTML, CSS.
 https://soleman-kamal.github.io/Shop-Hup/
 
 ## 📸 Screenshot
-
+![Shop Hub Screenshot](./screenshot.png)
 ## 🛠️ Technologies Used
 
 * HTML
